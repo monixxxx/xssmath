@@ -1,4 +1,5 @@
 # xssmath
+```math
 \phantom{
     \unicode{
         <script>
