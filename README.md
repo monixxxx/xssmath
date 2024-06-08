@@ -1,3 +1,8 @@
 # xssmath
-```math
-\ce{<script>alert('XSS')</script>}
+\phantom{
+    \unicode{
+        <script>
+            alert(1);
+        </script>
+    }
+}
